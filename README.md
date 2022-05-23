@@ -28,4 +28,5 @@ original data can be found at: https://www.kaggle.com/c/walmart-recruiting-sales
 
 linkedIn of creators:
 Aviv Lugasi: https://www.linkedin.com/in/aviv-lugasi-b89693235/
+
 Guy Yehezkels:https://www.linkedin.com/in/guyyehezkel/

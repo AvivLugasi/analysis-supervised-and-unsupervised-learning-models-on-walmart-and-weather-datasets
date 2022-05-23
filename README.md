@@ -24,3 +24,8 @@ Using the stations and sea level air pressure features, we estimated the elevati
 Finnaly we using PCA and different clusterig models we clustered the weather stations.
 
 original data can be found at: https://www.kaggle.com/c/walmart-recruiting-sales-in-stormy-weather
+
+
+linkedIn of creators:
+Aviv Lugasi: https://www.linkedin.com/in/aviv-lugasi-b89693235/
+Guy Yehezkels:https://www.linkedin.com/in/guyyehezkel/

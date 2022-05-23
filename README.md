@@ -8,10 +8,15 @@ we also analysed NOA's weather data, and then We checked how the weather affect 
 We performed several Processes on the data that included:
 
 -exclusion (features selection, null drop..etc).
+
 -data imputation(Using KNN).
+
 -data transformation(Log transform, one hot encoding).
+
 -features engineering(creating new features based on analysis we performed).
+
 -dimension reduction(PCA for the clustering phase).
+
 
 We created different regression models for predicting the sum of units of specific items in each store on a given date.
 We created classification models for predicting if a given date was rainy or not at store 11 based on the sales data.
